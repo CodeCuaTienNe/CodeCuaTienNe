@@ -13,9 +13,9 @@
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doan-minh-tien-02404a281/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/oanminhtien.613960)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@minhtien1622004)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
 
 ## 💻 Tech Stack
@@ -33,11 +33,12 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![Razor](https://img.shields.io/badge/Razor-%23512BD4.svg?style=for-the-badge&logo=razor&logoColor=white)
 
 ### Backend Development
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
@@ -45,10 +46,14 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Xata](https://img.shields.io/badge/xata-%23F5B700.svg?style=for-the-badge&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java Servlet](https://img.shields.io/badge/Servlet-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ### Game Development
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Mixamo](https://img.shields.io/badge/Mixamo-%23FF9E2A.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Hunyuan3D-2](https://img.shields.io/badge/Hunyuan3D--2-%2300A6D6.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 
 ### Tools & Others
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -106,5 +111,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=CodeCuaTienNe&style=flat-square&color=blue" alt=""/>
   
-  ### 🙏 Thank you for visiting my profile! Feel free to connect and collaborate!
+  ### ♥️ Thank you for visiting my profile! Feel free to connect and collaborate! ♥️
 </div>
