@@ -39,15 +39,14 @@
 ### Backend Development
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java Servlet](https://img.shields.io/badge/Servlet-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ### Database
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Xata](https://img.shields.io/badge/xata-%23F5B700.svg?style=for-the-badge&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Java Servlet](https://img.shields.io/badge/Servlet-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ### Game Development
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
