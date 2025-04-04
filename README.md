@@ -46,6 +46,10 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Xata](https://img.shields.io/badge/xata-%23F5B700.svg?style=for-the-badge&logoColor=white)
 
+### Game Development
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
 ### Tools & Others
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -61,25 +65,35 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CodeCuaTienNe&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCuaTienNe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Achievements
+<p align="center">
+  <a href="https://github.com/CodeCuaTienNe">
+    <img src="https://github-profile-trophy.vercel.app/?username=CodeCuaTienNe&theme=onedark&column=7&margin-w=15&margin-h=15" />
+  </a>
+</p>
+
 ## 🏆 Featured Projects
 
+### Huyen Vu Dai Chien (Dark Soul 3D Game)
+- **My responsibility**: Solo Developer
+- **Technologies**: Unity, C#, Blender, Mixamo, Hunyuan3D (Tencent), AI tools
+- **Description**: A dark souls-inspired 3D game where players fight corrupted dark turtles to reincarnate people and bring peace to humanity. Leveraged AI tools for model creation, combined with custom animations and game logic.
+- **Role**: Game Developer, 3D Modeler
+- **Links**: [Repository](https://github.com/CodeCuaTienNe/unity-soul/tree/main)
+
 ### Court Master (Badminton Court Booking Platform)
+- **My responsibility**: Frontend Developer
 - **Technologies**: Vue.js, Vite, Java Springboot, Microsoft SQL Server
 - **Description**: An online badminton court booking platform that enables users to easily search and book badminton courts in their desired locations and schedules
 - **Role**: Frontend Developer, UI/UX Designer
 - **Links**: [Frontend Repository](https://github.com/Zapz31/Court-Master-Frontend) | [Backend Repository](https://github.com/Zapz31/Court_Master_Backend)
 
-### Disk&Dash (Tournament Management System)
-- **Technologies**: React, Vite, .NET 6, Microsoft SQL Server
-- **Description**: A web-based Pickleball tournament management system that handles tournament organization and administration
-- **Role**: Frontend Developer
-- **Links**: [Live Demo](https://pickleball-tournament-system.vercel.app/)
-
 ### GigsHub (Freelancer Platform)
+- **My responsibility**: Frontend Developer
 - **Technologies**: React, Vite, ASP.NET 8, PostgreSQL, TypeScript
 - **Description**: A platform connecting freelancers with clients
 - **Role**: Frontend Developer
-- **Links**: [Live Demo](https://gigshub-gabong.vercel.app/)
+- **Links**: [Repository](https://github.com/CodeCuaTienNe/Spring2025SWD392_NET1709_GaBong)
 
 ## 🎵 Personal Activities & Interests
 - 🎸 **Musical Instruments**: Guitar, Piano, Đàn nguyệt (Traditional Vietnamese moon-shaped lute)
