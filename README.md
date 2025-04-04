@@ -37,10 +37,13 @@
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Razor-%23512BD4.svg?style=for-the-badge&logo=razor&logoColor=white" alt="Razor"/>
         <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"/>
         <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+        <img src="https://img.shields.io/badge/JSP-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="JSP"/>
         <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
         <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+        <img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"/>
       </div>
     </td>
   </tr>
@@ -51,9 +54,6 @@
         <img src="https://img.shields.io/badge/ASP.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
         <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
         <img src="https://img.shields.io/badge/Servlet-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java Servlet"/>
-        <img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"/>
-        <img src="https://img.shields.io/badge/JSP-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="JSP"/>
-        <img src="https://img.shields.io/badge/Razor-%23512BD4.svg?style=for-the-badge&logo=razor&logoColor=white" alt="Razor"/>
       </div>
     </td>
     <td valign="top">
