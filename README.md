@@ -41,30 +41,30 @@
 
 ```typescript
 const developer = {
-    name: "Doan Minh Tien",
-    location: "Ho Chi Minh City, Vietnam 🇻🇳",
-    role: "Full Stack Developer",
-    education: "Software Engineering Student",
-    
-    currentlyLearning: [
-        "Advanced Web Development",
-        "Game Development",
-        "Mobile App Development",
-        "Cloud Architecture"
-    ],
-    
-    workingOn: "Building scalable web applications",
-    
-    interests: [
-        "Open Source Contribution",
-        "AI & Machine Learning",
-        "System Design",
-        "UI/UX Design"
-    ],
-    
-    philosophy: "Code with purpose, learn with passion ✨",
-    
-    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
+  name: "Doan Minh Tien",
+  location: "Ho Chi Minh City, Vietnam 🇻🇳",
+  role: "Full Stack Developer",
+  education: "Software Engineering Student",
+
+  currentlyLearning: [
+    "Advanced Web Development",
+    "Game Development",
+    "Mobile App Development",
+    "Cloud Architecture",
+  ],
+
+  workingOn: "Building scalable web applications",
+
+  interests: [
+    "Open Source Contribution",
+    "AI & Machine Learning",
+    "System Design",
+    "UI/UX Design",
+  ],
+
+  philosophy: "Code with purpose, learn with passion ✨",
+
+  funFact: "I debug with console.log() and I'm not ashamed! 🐛",
 };
 ```
 
@@ -203,24 +203,6 @@ const developer = {
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=CodeCuaTienNe&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31k6txkdx5r2jxddwkzuqhjdxqje">
-    <img src="https://novatorem-codecuatienne.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
-  </a>
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -245,7 +227,7 @@ const developer = {
 
 <div align="center">
 
-*I'm always excited to connect with fellow developers, discuss new ideas, and collaborate on innovative projects!*
+_I'm always excited to connect with fellow developers, discuss new ideas, and collaborate on innovative projects!_
 
 <p>
   <a href="https://www.linkedin.com/in/doan-minh-tien-02404a281/">
