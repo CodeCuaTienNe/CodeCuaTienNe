@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Doan%20Minh%20Tien&fontSize=90&fontAlignY=38&animation=twinkling&fontColor=gradient&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descSize=25&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0099FF,100:0047AB&height=250&section=header&text=Doan%20Minh%20Tien&fontSize=90&fontAlignY=38&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descSize=25&descAlignY=55"/>
 
 <!-- Dynamic Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -281,7 +281,7 @@ const developer = {
 </div>
 
 <!-- Animated Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0099FF,100:0047AB&height=150&section=footer&animation=twinkling"/>
 
 ---
 
