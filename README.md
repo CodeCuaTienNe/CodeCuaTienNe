@@ -97,7 +97,7 @@ const developer = {
 <summary><b>⚙️ Backend Development</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,go,graphql,express,nestjs,prisma,fastapi&theme=dark&perline=10" alt="Backend Skills"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,go,graphql,nestjs,prisma&theme=dark&perline=10" alt="Backend Skills"/>
 </p>
 </details>
 
@@ -105,7 +105,7 @@ const developer = {
 <summary><b>🗄️ Database & Infrastructure</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase,docker,kubernetes,aws,vercel&theme=dark&perline=10" alt="Database & Infra"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase,docker,vercel&theme=dark&perline=10" alt="Database & Infra"/>
 </p>
 </details>
 
@@ -113,7 +113,7 @@ const developer = {
 <summary><b>🔧 Tools & Platforms</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma,notion,linux,nginx&theme=dark&perline=10" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,notion&theme=dark&perline=10" alt="Tools"/>
 </p>
 </details>
 
